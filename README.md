@@ -1,0 +1,1 @@
+Intellecta an AI-powered tool is designed to assist users in efficiently extracting information from any URL-based content.Built using LangChain, FAISS, and Google Generative AI, the model allows users to input a URL from various sources—news articles, blogs, research papers, or any web content—and ask detailed questions..
